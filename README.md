@@ -167,43 +167,12 @@ Segment Characteristics: This segment represents customers who haven't purchased
   - Email deliverability
   - Unsubscribe rate
 
-## Installation and Usage
-1. Clone the repository
-   ```bash
-   git clone https://github.com/AtiaseDelali/Analysis_of_online_retail.git
-   
-   ```
-
-2. Install required Python packages
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the SQL scripts using SQLite
-   ```bash
-   sqlite3 retail.db < sql/analysis.sql
-   ```
-
-4. Execute the Python analysis
-   ```bash
-   python python/customer_segmentation.py
-   ```
-
-## Results and Visualizations
-[Add screenshots and descriptions of your visualizations here]
 
 ## Future Improvements
 - Add time series forecasting
 - Implement deep learning models
-- Create interactive web dashboard
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-[Your Name] - [Your Email]
-GitHub: [@yourusername](https://github.com/yourusername)
+- Create an interactive web dashboard
 
 ## Acknowledgments
-- Dataset source: [Add source information]
-- Special thanks to [Add any acknowledgments]
+- Dataset source: https://archive.ics.uci.edu/dataset/352/online+retail 
+
