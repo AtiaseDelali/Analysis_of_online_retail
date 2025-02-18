@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1a5Uc-l6LR6KDXI3IX6BuXlF1HaM7PDDe
 """
 
-!pip install lifetimes
-
 # Import required libraries
 import pandas as pd
 import numpy as np
