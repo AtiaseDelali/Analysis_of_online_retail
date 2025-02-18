@@ -55,7 +55,7 @@ Advanced customer segmentation using:
 #### Summary Overview
 Total Customers Analyzed: 4,338
 #### Segment Distribution
--Active Loyal Low-Value: 1,788 customers (41.2%), $4,236.06 avg. spend
+-Active Loyal Low-Value: 1,788 customers (41.2%), $4,236.06 avg. spend 
 -Inactive Occasional High-Value: 2 customers (0.1%), $122,828.05 avg. spend
 -Inactive Occasional Low-Value: 2,548 customers (58.7%), $428.44 avg. spend
 
